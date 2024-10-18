@@ -1,4 +1,20 @@
-# Study-materials
+# 📚 Study Materials
+
+Welcome to the Study Materials repository! This curated collection features essential links and content focused on:
+
+### • Development: 
+Tools, frameworks, and best practices to enhance your coding skills.
+
+### • Artificial Intelligence:
+Tutorials, research papers, and projects to dive deep into AI concepts.
+
+### • Programming Languages: 
+Resources for mastering languages like Python, Java, C++, and more.
+
+### • Projects: 
+Hands-on projects and examples to apply your knowledge and build your portfolio.
+
+Whether you're a beginner or an experienced developer, this repository aims to provide valuable resources to support your learning journey in computer science. Feel free to contribute by adding your favorite links or projects!
 
 ## AI
 

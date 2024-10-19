@@ -48,7 +48,13 @@ Whether you're a beginner or an experienced developer, this repository aims to p
 
 ## Resources & PDFs
 
-1. <img align="left" alt="https://t.me/MeherMankar" width="28px" src="./Images/ai-chipset.svg" />[Multiple AIs](https://www.notdiamond.ai/)
+## Websites
+
+1. <img align="left" alt="https://t.me/MeherMankar" width="28px" src="./Images/IMG_20241019_105536.jpg" />[Notdiamond](https://www.notdiamond.ai/) (Multiple AIs at one spot)
+
+2. <img align="left" alt="https://t.me/MeherMankar" width="28px" src="./Images/IMG_20241019_105536.jpg" />[Multiple AIs](https://www.notdiamond.ai/)[Class Central](https://www.classcentral.com/) (Free Certificates)
+
+3. <img align="left" alt="https://t.me/MeherMankar" width="28px" src="./Images/IMG_20241019_105536.jpg" />[MLU-EXPLAIN](https://mlu-explain.github.io/) (AI/ML)
 
 ## Projects
 
